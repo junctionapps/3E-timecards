@@ -1,5 +1,5 @@
 # 3e-timecard
-A brief demonstration of using Python to create timecards in Elite 3E.
+A brief demonstration using Python to create timecards in Elite 3E.
 
 ## Getting started
 Assuming a version of [Python 3.6.4 or higher is installed ](https://docs.python.org/3/)
